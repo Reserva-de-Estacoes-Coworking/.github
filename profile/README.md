@@ -63,27 +63,6 @@ O **DeskGo** permite que usuários reservem mesas em ambientes compartilhados de
 
 ---
 
-# 👥 Equipe
-
-<table>
-  <tr>
-    <td align="center">
-      <img src="https://avatars.githubusercontent.com/u/1?v=4" width="100px;" alt=""/>
-      <br />
-      <sub><b>Gabriel Gama</b></sub>
-    </td>
-    <td align="center">
-      <img src="https://avatars.githubusercontent.com/u/1?v=4" width="100px;" alt=""/>
-      <br />
-      <sub><b>Victoria Zapata</b></sub>
-    </td>
-  </tr>
-</table>
-
-> *(Vocês podem trocar as imagens pelos avatares reais do GitHub depois.)*
-
----
-
 # 🚀 Tecnologias
 
 ```bash
@@ -110,10 +89,6 @@ A DeskGo busca expandir suas soluções com:
 ---
 
 <div align="center">
-
-# 💙 DeskGo
-
-### Smart spaces. Better work.
 
 ⭐ Obrigado por visitar nossa organização!
 
